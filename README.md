@@ -16,4 +16,5 @@ If you are opting out of career services, this is still a required assignment. P
 
 * Updated LinkedIn profile
 
-## https://uncvalladareshamlet.github.io/HW8_ProfessionalMaterials/
+## Portfolio
+https://uncvalladareshamlet.github.io/HW8_ProfessionalMaterials/
