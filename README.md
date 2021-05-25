@@ -8,12 +8,12 @@ If you are opting out of career services, this is still a required assignment. P
 
 ## Acceptance Requirements
 
-*Updated portfolio featuring Project 1 and two exemplary homework assignments.
+* Updated portfolio featuring Project 1 and two exemplary homework assignments.
 
-*Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+* Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
 
-*Updated resume
+* Updated resume
 
-*Updated LinkedIn profile
+* Updated LinkedIn profile
 
 ## https://uncvalladareshamlet.github.io/HW8_ProfessionalMaterials/
