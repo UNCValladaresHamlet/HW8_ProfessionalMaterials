@@ -2,6 +2,10 @@
 
 ## Preview
 <img width="950" alt="profile landing page" src="https://user-images.githubusercontent.com/80364592/119585818-7ecde200-bd99-11eb-8f66-732471c795e4.PNG">
+<img width="597" alt="about_me" src="https://user-images.githubusercontent.com/80364592/119589157-4087f100-bda0-11eb-8b46-4b1ec04cedc4.PNG">
+<img width="597" alt="projects" src="https://user-images.githubusercontent.com/80364592/119589188-4da4e000-bda0-11eb-8cfc-2bb93d56b387.PNG">
+<img width="593" alt="contact" src="https://user-images.githubusercontent.com/80364592/119589212-57c6de80-bda0-11eb-9703-5526ca3546f8.PNG">
+
 
 ## Portfolio Link
 https://uncvalladareshamlet.github.io/HW8_ProfessionalMaterials/
