@@ -1,7 +1,9 @@
 # HW8_ProfessionalMaterials
+
+## Preview
 <img width="950" alt="profile landing page" src="https://user-images.githubusercontent.com/80364592/119585818-7ecde200-bd99-11eb-8f66-732471c795e4.PNG">
 
-## Portfolio
+## Portfolio link
 https://uncvalladareshamlet.github.io/HW8_ProfessionalMaterials/
 
 ## My Task
